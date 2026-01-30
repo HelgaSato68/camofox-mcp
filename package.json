@@ -1,6 +1,6 @@
 {
   "name": "camofox-mcp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Anti-detection browser MCP server for AI agents \u2014 navigate, interact, and automate the web without getting blocked",
   "main": "src/index.ts",
   "scripts": {
